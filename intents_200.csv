@@ -1,0 +1,201 @@
+intent,pattern,response
+order_status,Track my order,Please provide your order ID.
+payment_issue,My payment failed,Please check your card details and try again.
+greeting,Good evening,Welcome! What can I do for you?
+shipping_info,Delivery charges,Shipping is free over $50.
+order_status,Where is my order?,Your order is on the way.
+refund_policy,Refund info,"Yes, just keep your receipt for a return."
+account_help,Account locked,We'll help you recover your account.
+greeting,Hi,Hello! How can I help you today?
+password_reset,I forgot my password,Use your email to reset the password from login screen.
+goodbye,See you,See you soon!
+order_status,Track my order,Your order is on the way.
+greeting,Hi,Welcome! What can I do for you?
+greeting,Hey,Hello! How can I help you today?
+account_help,Help with account,Contact support for account issues.
+goodbye,Goodbye,See you soon!
+password_reset,Forgot password,Use your email to reset the password from login screen.
+payment_issue,Issue with payment,Try another payment method.
+order_status,Track my order,Let me check your order status.
+payment_issue,Can't pay online,Please check your card details and try again.
+refund_policy,Refund info,You can return within 30 days of purchase.
+order_status,Track my order,Let me check your order status.
+shipping_info,Is shipping free?,You can see the cost at checkout.
+account_help,Help with account,Try resetting your password.
+order_status,Where is my order?,Please provide your order ID.
+greeting,Hello,Hi there! How can I assist you today?
+shipping_info,Delivery charges,You can see the cost at checkout.
+goodbye,See you,See you soon!
+order_status,Check delivery,Please provide your order ID.
+goodbye,See you,See you soon!
+greeting,Good evening,Welcome! What can I do for you?
+goodbye,See you,See you soon!
+refund_policy,How do I get a refund?,We offer full refunds within 30 days.
+greeting,Hey,Hello! How can I help you today?
+shipping_info,How long does delivery take?,Standard delivery takes 3–5 business days.
+account_help,Issue with account,Try resetting your password.
+account_help,Account locked,Try resetting your password.
+refund_policy,What's your refund policy?,We offer full refunds within 30 days.
+greeting,Hello,Hello! How can I help you today?
+order_status,Check delivery,Your order is on the way.
+account_help,Help with account,Contact support for account issues.
+shipping_info,Shipping time,Shipping is free over $50.
+payment_issue,My payment failed,Please check your card details and try again.
+shipping_info,Shipping cost,You can see the cost at checkout.
+account_help,Help with account,Try resetting your password.
+payment_issue,Can't pay online,Ensure your card is valid and has sufficient funds.
+order_status,Check delivery,Please provide your order ID.
+order_status,Order status,Please provide your order ID.
+order_status,Where is my order?,Please provide your order ID.
+greeting,Good morning,Welcome! What can I do for you?
+account_help,Need login help,Contact support for account issues.
+goodbye,See you,Goodbye! Have a great day.
+account_help,Issue with account,Try resetting your password.
+refund_policy,What's your refund policy?,We offer full refunds within 30 days.
+password_reset,Can't remember my password,Click 'Forgot Password' on the login page.
+greeting,Hello,Hello! How can I help you today?
+payment_issue,My payment failed,Please check your card details and try again.
+order_status,Where is my order?,Let me check your order status.
+account_help,Issue with account,We'll help you recover your account.
+password_reset,Can't remember my password,Use your email to reset the password from login screen.
+account_help,Need login help,We'll help you recover your account.
+password_reset,How do I reset my password?,Use your email to reset the password from login screen.
+goodbye,Bye,See you soon!
+shipping_info,Is shipping free?,You can see the cost at checkout.
+refund_policy,Can I return a product?,We offer full refunds within 30 days.
+payment_issue,Issue with payment,Ensure your card is valid and has sufficient funds.
+account_help,Help with account,Try resetting your password.
+refund_policy,Refund info,We offer full refunds within 30 days.
+account_help,Issue with account,We'll help you recover your account.
+refund_policy,Refund info,You can return within 30 days of purchase.
+goodbye,Talk to you later,Take care!
+account_help,Help with account,Try resetting your password.
+goodbye,Catch you later,See you soon!
+password_reset,How do I reset my password?,Click 'Forgot Password' on the login page.
+greeting,Good evening,Hello! How can I help you today?
+refund_policy,What's your refund policy?,"Yes, just keep your receipt for a return."
+order_status,Track my order,Your order is on the way.
+refund_policy,What's your refund policy?,We offer full refunds within 30 days.
+refund_policy,Refund info,We offer full refunds within 30 days.
+shipping_info,How long does delivery take?,Standard delivery takes 3–5 business days.
+shipping_info,Shipping time,Shipping is free over $50.
+shipping_info,How long does delivery take?,Shipping is free over $50.
+payment_issue,Can't pay online,Ensure your card is valid and has sufficient funds.
+account_help,Issue with account,Try resetting your password.
+goodbye,See you,Take care!
+goodbye,See you,Take care!
+account_help,Account locked,We'll help you recover your account.
+shipping_info,Shipping cost,Shipping is free over $50.
+password_reset,I forgot my password,Use your email to reset the password from login screen.
+greeting,Hello,Hello! How can I help you today?
+payment_issue,Can't pay online,Try another payment method.
+goodbye,Catch you later,Take care!
+order_status,Check delivery,Let me check your order status.
+payment_issue,Why was my card declined?,Please check your card details and try again.
+password_reset,How do I reset my password?,You can reset it by following the 'Forgot Password' link.
+account_help,Account locked,Contact support for account issues.
+password_reset,Can't remember my password,Click 'Forgot Password' on the login page.
+account_help,Can't log in,Contact support for account issues.
+shipping_info,Shipping time,Shipping is free over $50.
+password_reset,I forgot my password,Use your email to reset the password from login screen.
+shipping_info,Is shipping free?,Shipping is free over $50.
+greeting,Hey,Hello! How can I help you today?
+account_help,Help with account,We'll help you recover your account.
+order_status,Check delivery,Your order is on the way.
+payment_issue,My payment failed,Try another payment method.
+goodbye,See you,Goodbye! Have a great day.
+account_help,Need login help,We'll help you recover your account.
+payment_issue,Payment error,Ensure your card is valid and has sufficient funds.
+password_reset,Forgot password,Click 'Forgot Password' on the login page.
+greeting,Hey,Hello! How can I help you today?
+order_status,Where is my order?,Your order is on the way.
+order_status,Where is my order?,Please provide your order ID.
+greeting,Hello,Welcome! What can I do for you?
+payment_issue,Why was my card declined?,Try another payment method.
+payment_issue,Issue with payment,Ensure your card is valid and has sufficient funds.
+payment_issue,Issue with payment,Try another payment method.
+payment_issue,Payment error,Try another payment method.
+refund_policy,Refund info,We offer full refunds within 30 days.
+order_status,Track my order,Let me check your order status.
+payment_issue,My payment failed,Ensure your card is valid and has sufficient funds.
+shipping_info,Shipping time,Shipping is free over $50.
+payment_issue,Issue with payment,Ensure your card is valid and has sufficient funds.
+password_reset,I forgot my password,Use your email to reset the password from login screen.
+goodbye,Goodbye,Goodbye! Have a great day.
+goodbye,Goodbye,Goodbye! Have a great day.
+refund_policy,What's your refund policy?,We offer full refunds within 30 days.
+account_help,Help with account,Try resetting your password.
+account_help,Need login help,Try resetting your password.
+payment_issue,Issue with payment,Ensure your card is valid and has sufficient funds.
+order_status,Track my order,Let me check your order status.
+greeting,Hello,Hello! How can I help you today?
+refund_policy,Refund info,"Yes, just keep your receipt for a return."
+order_status,Track my order,Let me check your order status.
+order_status,Where is my order?,Your order is on the way.
+order_status,Has my order shipped?,Let me check your order status.
+order_status,Track my order,Please provide your order ID.
+password_reset,Can't remember my password,You can reset it by following the 'Forgot Password' link.
+payment_issue,Payment error,Please check your card details and try again.
+payment_issue,My payment failed,Ensure your card is valid and has sufficient funds.
+shipping_info,Shipping time,You can see the cost at checkout.
+shipping_info,Is shipping free?,Standard delivery takes 3–5 business days.
+greeting,Good evening,Welcome! What can I do for you?
+order_status,Order status,Your order is on the way.
+refund_policy,Money back guarantee?,"Yes, just keep your receipt for a return."
+password_reset,Can't remember my password,You can reset it by following the 'Forgot Password' link.
+goodbye,See you,Goodbye! Have a great day.
+shipping_info,Is shipping free?,Standard delivery takes 3–5 business days.
+password_reset,Can't remember my password,You can reset it by following the 'Forgot Password' link.
+refund_policy,Refund info,We offer full refunds within 30 days.
+order_status,Order status,Please provide your order ID.
+password_reset,How do I reset my password?,Use your email to reset the password from login screen.
+greeting,Hi,Hello! How can I help you today?
+password_reset,Reset password,Use your email to reset the password from login screen.
+refund_policy,What's your refund policy?,"Yes, just keep your receipt for a return."
+greeting,Hello,Hi there! How can I assist you today?
+refund_policy,Money back guarantee?,You can return within 30 days of purchase.
+goodbye,Talk to you later,Take care!
+greeting,Hi,Hello! How can I help you today?
+payment_issue,Issue with payment,Try another payment method.
+payment_issue,Can't pay online,Please check your card details and try again.
+order_status,Where is my order?,Your order is on the way.
+order_status,Track my order,Let me check your order status.
+goodbye,Talk to you later,See you soon!
+greeting,Hello,Hi there! How can I assist you today?
+greeting,Hi,Hello! How can I help you today?
+password_reset,Can't remember my password,Use your email to reset the password from login screen.
+password_reset,Reset password,Use your email to reset the password from login screen.
+goodbye,See you,See you soon!
+goodbye,Talk to you later,Take care!
+password_reset,Reset password,Click 'Forgot Password' on the login page.
+payment_issue,My payment failed,Try another payment method.
+refund_policy,Can I return a product?,We offer full refunds within 30 days.
+account_help,Issue with account,Contact support for account issues.
+order_status,Has my order shipped?,Your order is on the way.
+greeting,Good morning,Hi there! How can I assist you today?
+refund_policy,How do I get a refund?,You can return within 30 days of purchase.
+account_help,Need login help,Try resetting your password.
+password_reset,Can't remember my password,Use your email to reset the password from login screen.
+refund_policy,Money back guarantee?,We offer full refunds within 30 days.
+order_status,Track my order,Your order is on the way.
+goodbye,Bye,Goodbye! Have a great day.
+payment_issue,Why was my card declined?,Please check your card details and try again.
+account_help,Can't log in,Contact support for account issues.
+goodbye,Talk to you later,Take care!
+shipping_info,Shipping cost,Standard delivery takes 3–5 business days.
+account_help,Can't log in,Try resetting your password.
+order_status,Has my order shipped?,Please provide your order ID.
+password_reset,Forgot password,Click 'Forgot Password' on the login page.
+shipping_info,Shipping time,Standard delivery takes 3–5 business days.
+refund_policy,Money back guarantee?,We offer full refunds within 30 days.
+refund_policy,Refund info,You can return within 30 days of purchase.
+account_help,Issue with account,Contact support for account issues.
+order_status,Where is my order?,Your order is on the way.
+refund_policy,How do I get a refund?,You can return within 30 days of purchase.
+order_status,Order status,Please provide your order ID.
+refund_policy,Money back guarantee?,You can return within 30 days of purchase.
+shipping_info,Shipping time,You can see the cost at checkout.
+goodbye,Talk to you later,See you soon!
+account_help,Help with account,Contact support for account issues.
+order_status,Where is my order?,Let me check your order status.
+greeting,Hi,Hi there! How can I assist you today?
